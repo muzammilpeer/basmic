@@ -1,0 +1,20 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2010-01-03 23:54:53 --> 404 Page Not Found --> Rollout_files
+ERROR - 2010-01-03 23:54:53 --> 404 Page Not Found --> Rollout_files
+ERROR - 2010-01-03 23:54:53 --> 404 Page Not Found --> Rollout_files
+ERROR - 2010-01-03 23:54:53 --> 404 Page Not Found --> favicon2.ico
+ERROR - 2010-01-03 23:54:53 --> 404 Page Not Found --> Rollout_files
+ERROR - 2010-01-03 23:54:53 --> 404 Page Not Found --> Rollout_files
+ERROR - 2010-01-03 23:54:55 --> 404 Page Not Found --> favicon2.ico
+ERROR - 2010-01-03 23:54:55 --> 404 Page Not Found --> Rollout_files
+ERROR - 2010-01-03 23:54:55 --> 404 Page Not Found --> Rollout_files
+ERROR - 2010-01-03 23:54:55 --> 404 Page Not Found --> Rollout_files
+ERROR - 2010-01-03 23:54:55 --> 404 Page Not Found --> Rollout_files
+ERROR - 2010-01-03 23:54:55 --> 404 Page Not Found --> Rollout_files
+ERROR - 2010-01-03 23:59:39 --> 404 Page Not Found --> home/Rollout_files
+ERROR - 2010-01-03 23:59:39 --> 404 Page Not Found --> home/favicon2.ico
+ERROR - 2010-01-03 23:59:39 --> 404 Page Not Found --> home/Rollout_files
+ERROR - 2010-01-03 23:59:39 --> 404 Page Not Found --> home/Rollout_files
+ERROR - 2010-01-03 23:59:39 --> 404 Page Not Found --> home/Rollout_files
+ERROR - 2010-01-03 23:59:39 --> 404 Page Not Found --> home/Rollout_files

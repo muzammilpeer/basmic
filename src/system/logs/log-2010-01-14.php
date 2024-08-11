@@ -1,0 +1,175 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2010-01-14 18:20:56 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 18:20:57 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 18:20:57 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 18:20:58 --> Severity: Notice  --> unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 0 of 1 bytes /var/www/fastcoms/system/libraries/Session.php 708
+ERROR - 2010-01-14 18:20:58 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 18:20:59 --> Severity: Notice  --> unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 0 of 1 bytes /var/www/fastcoms/system/libraries/Session.php 708
+ERROR - 2010-01-14 18:20:59 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 18:21:01 --> Severity: Notice  --> unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 0 of 1 bytes /var/www/fastcoms/system/libraries/Session.php 708
+ERROR - 2010-01-14 18:21:01 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 18:21:02 --> Severity: Notice  --> unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 0 of 1 bytes /var/www/fastcoms/system/libraries/Session.php 708
+ERROR - 2010-01-14 18:21:02 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 18:21:05 --> Severity: Notice  --> unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 0 of 1 bytes /var/www/fastcoms/system/libraries/Session.php 708
+ERROR - 2010-01-14 18:21:05 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:04:25 --> Severity: Notice  --> unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 0 of 1 bytes /var/www/fastcoms/system/libraries/Session.php 708
+ERROR - 2010-01-14 19:04:25 --> Severity: Notice  --> unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 0 of 1 bytes /var/www/fastcoms/system/libraries/Session.php 708
+ERROR - 2010-01-14 19:04:25 --> 404 Page Not Found --> home/favicon2.ico
+ERROR - 2010-01-14 19:04:27 --> Severity: Notice  --> unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 0 of 1 bytes /var/www/fastcoms/system/libraries/Session.php 708
+ERROR - 2010-01-14 19:04:37 --> Severity: Notice  --> unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 0 of 1 bytes /var/www/fastcoms/system/libraries/Session.php 708
+ERROR - 2010-01-14 19:04:42 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:04:42 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:04:42 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:04:42 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:04:42 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:04:43 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:04:43 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:06:26 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 19:06:26 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:06:26 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:06:26 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:06:26 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:06:26 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:06:26 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:06:26 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:06:27 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 19:06:27 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:06:28 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:06:28 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:06:28 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:06:28 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:06:28 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:06:28 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:06:33 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:06:33 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:06:33 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:06:34 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:06:34 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:06:34 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:06:34 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:07:02 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:07:02 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:07:02 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:07:02 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:07:03 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:07:03 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:07:03 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:07:03 --> 404 Page Not Found --> chair/chair.js
+ERROR - 2010-01-14 19:19:00 --> Severity: Notice  --> unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 0 of 1 bytes /var/www/fastcoms/system/libraries/Session.php 708
+ERROR - 2010-01-14 19:19:02 --> Severity: Notice  --> unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 0 of 1 bytes /var/www/fastcoms/system/libraries/Session.php 708
+ERROR - 2010-01-14 19:19:12 --> Severity: Notice  --> unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 0 of 1 bytes /var/www/fastcoms/system/libraries/Session.php 708
+ERROR - 2010-01-14 19:19:16 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:19:16 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:19:16 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:19:16 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:19:16 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:19:16 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:19:17 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:20:08 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:20:08 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:20:08 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:20:08 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:20:08 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:20:08 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:20:08 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:21:10 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 19:21:10 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:21:10 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:21:10 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:21:10 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:21:11 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:21:11 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:21:11 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:22:15 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 19:22:15 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:22:15 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:22:15 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:22:16 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:22:16 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:22:16 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:22:16 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:23:21 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 19:23:21 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:23:21 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:23:21 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:23:21 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:23:21 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:23:21 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:23:21 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:24:05 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 19:24:05 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:24:05 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:24:05 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:24:05 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:24:06 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:24:06 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:24:06 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:35:06 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:35:06 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:35:06 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:35:06 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:35:06 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:35:06 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:35:06 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:37:54 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:37:54 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:37:54 --> 404 Page Not Found --> chair/css
+ERROR - 2010-01-14 19:37:54 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:37:54 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:37:54 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:37:54 --> 404 Page Not Found --> chair/js
+ERROR - 2010-01-14 19:47:20 --> 404 Page Not Found --> chair/manualpaper.php
+ERROR - 2010-01-14 19:49:11 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 19:49:38 --> 404 Page Not Found --> chair/manualpaper.php
+ERROR - 2010-01-14 19:52:21 --> 404 Page Not Found --> chair/manualpaper.php
+ERROR - 2010-01-14 19:53:12 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 19:53:14 --> 404 Page Not Found --> chair/images
+ERROR - 2010-01-14 19:53:17 --> 404 Page Not Found --> chair/manualpaper.php
+ERROR - 2010-01-14 19:53:22 --> 404 Page Not Found --> chair/manualpaper.php
+ERROR - 2010-01-14 19:53:25 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 19:53:28 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 19:53:29 --> 404 Page Not Found --> chair/images
+ERROR - 2010-01-14 19:54:05 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 19:54:06 --> 404 Page Not Found --> chair/images
+ERROR - 2010-01-14 19:54:27 --> 404 Page Not Found --> chair/manualpaper.php
+ERROR - 2010-01-14 19:54:31 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 19:54:32 --> 404 Page Not Found --> chair/images
+ERROR - 2010-01-14 19:55:53 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 19:55:55 --> 404 Page Not Found --> chair/images
+ERROR - 2010-01-14 20:02:05 --> 404 Page Not Found --> chair/images
+ERROR - 2010-01-14 20:03:04 --> Severity: Notice  --> unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 0 of 1 bytes /var/www/fastcoms/system/libraries/Session.php 708
+ERROR - 2010-01-14 20:03:04 --> 404 Page Not Found --> home/favicon2.ico
+ERROR - 2010-01-14 20:03:17 --> Severity: Notice  --> unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 0 of 1 bytes /var/www/fastcoms/system/libraries/Session.php 708
+ERROR - 2010-01-14 20:03:31 --> Severity: Notice  --> unserialize() [<a href='function.unserialize'>function.unserialize</a>]: Error at offset 0 of 1 bytes /var/www/fastcoms/system/libraries/Session.php 708
+ERROR - 2010-01-14 20:03:31 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 20:03:38 --> 404 Page Not Found --> chair/images
+ERROR - 2010-01-14 20:05:43 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 20:05:45 --> 404 Page Not Found --> chair/images
+ERROR - 2010-01-14 20:06:20 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 20:06:21 --> 404 Page Not Found --> chair/images
+ERROR - 2010-01-14 20:07:46 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 20:08:13 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 20:08:18 --> 404 Page Not Found --> chair/images
+ERROR - 2010-01-14 20:09:32 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 20:09:34 --> 404 Page Not Found --> chair/images
+ERROR - 2010-01-14 20:09:55 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 20:09:56 --> 404 Page Not Found --> chair/images
+ERROR - 2010-01-14 20:11:37 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 20:12:56 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 20:15:25 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 21:25:28 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 21:25:30 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 21:25:32 --> 404 Page Not Found --> chair/images
+ERROR - 2010-01-14 21:26:51 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 21:26:52 --> 404 Page Not Found --> chair/images
+ERROR - 2010-01-14 21:27:09 --> 404 Page Not Found --> chair/images
+ERROR - 2010-01-14 21:28:20 --> 404 Page Not Found --> chair/images
+ERROR - 2010-01-14 21:30:42 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 21:31:07 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 21:31:09 --> 404 Page Not Found --> chair/images
+ERROR - 2010-01-14 21:32:23 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 21:33:23 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 21:36:08 --> 404 Page Not Found --> chair/favicon2.ico
+ERROR - 2010-01-14 21:36:10 --> 404 Page Not Found --> chair/images
+ERROR - 2010-01-14 21:51:05 --> 404 Page Not Found --> chair/favicon2.ico
